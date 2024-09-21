@@ -54,15 +54,3 @@
 </p>
 
 ---
-
-<h3 align="center">🏅 Statistics 🏅</h3>
-<p align="center"> 
-  <img alt="Bhavleen's github stats" src="https://github-readme-stats.vercel.app/api?username=creative-singh&show_icons=true&theme=radical" /> 
-</p>
-
----
-
-<h3 align="center">Languages And Tools</h3>
-<p>
-<div style="height:100px; width:100%; border:1px solid white; border-radius:5px;padding:10px">
-
